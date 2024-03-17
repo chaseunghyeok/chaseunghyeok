@@ -2,9 +2,7 @@
 
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;" align="center">
- <h4>🔨 I'm interested in 🔨 </h4>
- <!-- Backend -->
-    <p><strong>Backend</strong></p>
+ <h3>🔨 I'm interested in 🔨 </h3>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
