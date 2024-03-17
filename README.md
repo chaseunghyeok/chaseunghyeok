@@ -16,9 +16,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![chaseunghyeok's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=chaseunghyeok&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/bi-sz/github-readme-stats)
+![chaseunghyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaseunghyeok&show_icons=true&theme=radical)
 </div>
 
 <!--
