@@ -17,7 +17,8 @@
 <div align="center">
 
 ![chaseunghyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaseunghyeok&show_icons=true&theme=radical)
-<img src="https://raw.githubusercontent.com/chaseunghyeok/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseunghyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />>
 
 </div>
 
