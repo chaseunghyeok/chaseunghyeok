@@ -15,14 +15,7 @@
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaseunghyeok&theme=radical&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaseunghyeok&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-
+![chaseunghyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaseunghyeok&show_icons=true&theme=radical)
 </div>
 
 <!--
