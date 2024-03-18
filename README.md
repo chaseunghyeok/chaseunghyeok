@@ -17,6 +17,10 @@
 <div align="center">
 
 ![chaseunghyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaseunghyeok&show_icons=true&theme=radical)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaseunghyeok&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 </div>
 
 <!--
