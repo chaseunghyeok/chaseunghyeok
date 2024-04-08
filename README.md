@@ -1,5 +1,5 @@
-<div style="display:flex; align="right">
-<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=292D3E&height=230&section=header&text=Welcome%20to%Seunghyeok's%20GitHub🎁&fontSize=50&fontColor=C792E9" />
+<div style="display:flex; align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=292D3E&height=350&section=header&text=Welcome%20to%20Seunghyeok's%20GitHub🎁&fontSize=50&fontColor=C792E9" />
 </div>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;" align="center">
