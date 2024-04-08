@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=gradient&text=%20Welcome%20to%20Seunghyeok's%20GitHub⭐&height=300&fontSize=30&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=%20Welcome%20to%20Seunghyeok's%20GitHub⭐&height=300&fontSize=30&textBg=true)
 
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;" align="center">
