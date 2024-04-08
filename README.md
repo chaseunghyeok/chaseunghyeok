@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?textWelcome%20to%Seunghyeok's%20GitHub⭐!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome%20to%20Seunghyeok's%20GitHub⭐&height=300&fontSize=100&textBg=true)
+
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;" align="center">
  <h3>🔨 I'm interested in 🔨 </h3>
