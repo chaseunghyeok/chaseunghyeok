@@ -1,6 +1,4 @@
-<div style="display:flex; align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=292D3E&height=120&section=header&text=Welcome%20to%20Seunghyeok's%20GitHub🎁&fontSize=50&fontColor=C792E9" />
-</div>
+![header](https://capsule-render.vercel.app/api?textWelcome%20to%Seunghyeok's%20GitHub⭐!&fontSize=20&rotate=-30)
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;" align="center">
  <h3>🔨 I'm interested in 🔨 </h3>
