@@ -16,7 +16,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaseunghyeok&show_icons=true&theme=radical&count_private=true" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chaseunghyeok&show_icons=true&theme=material-palenight&count_private=true" height="200"/>
 </div>
 
 <!--
